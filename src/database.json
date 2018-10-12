@@ -1,0 +1,14 @@
+{
+	"users":[
+		{
+			"userFullName": "Manh Huy Vo",
+			"username": "manhhuyvo",
+			"password": "123456"
+		},
+		{
+			"userFullName": "Saoud Nazir",
+			"username": "saoud",
+			"password": "saoud"
+		}
+	]
+}
